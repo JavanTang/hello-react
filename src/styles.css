@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.X {
+  background-color: yellow;
+  height: 50px;
+  width: 50px;
+}
